@@ -1,0 +1,3 @@
+﻿  Tinclad.cpp
+C:\Users\FURAGA\source\repos\WizardEngine2D\Tinclad\Tinclad.cpp(23,9): error C3861: 'isDigit': identifier not found
+C:\Users\FURAGA\source\repos\WizardEngine2D\Tinclad\Tinclad.cpp(31,23): warning C4018: '<': signed/unsigned mismatch
